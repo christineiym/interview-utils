@@ -1,0 +1,2 @@
+ip,vpn,proxy,tor,relay,city,region,country,continent,region_code,country_code,continent_code,latitude,longitude,time_zone,locale_code,metro_code,is_in_european_union,network,autonomous_system_number,autonomous_system_organization
+102.90.102.155,False,False,False,False,,,Nigeria,Africa,,NG,AF,10.0000,8.0000,Africa/Lagos,en,,False,102.88.0.0/13,AS29465,MTN NIGERIA Communication limited
