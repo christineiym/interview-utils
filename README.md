@@ -1,5 +1,5 @@
 # interview-utils
-Scripts for common screening tasks. 
+Python3 scripts for common screening tasks. 
 
 Usage of specific sites does not imply endorsement. Make sure to comply with privacy laws relevant to your jurisdiction.
 
